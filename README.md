@@ -1,2 +1,2 @@
 # chatbot
-Chatbot for vk (avia tickets booking imitation). 
+Chatbot for vk (avia tickets booking simulation). 
